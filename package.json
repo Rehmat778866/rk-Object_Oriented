@@ -1,11 +1,11 @@
 {
-  "name": "object_oreinted",
+  "name": "rk-object_oriented",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
-    "scripts": {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
